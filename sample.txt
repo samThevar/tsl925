@@ -1,1 +1,2 @@
 hello first commit
+now time for local repository "second commit"
