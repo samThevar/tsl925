@@ -1,1 +1,7 @@
+
 helllo vijay
+
+hello first commit
+now time for local repository "second commit"
+now time for master third commit
+

@@ -1,0 +1,21 @@
+$ git config --global user.name "geethasamynathan"
+$ git config --global user.email "geethasamynathan2011@gmail.com"
+$ git config --list
+$ git init Demo
+
+ 
+
+Add some text file in demo Folder
+$ git status
+$ git add*
+$ git status
+$ git commit -m "File1 added"
+$ git status
+$ git remote add https://github.com/geethasamynathan/samplePushforLtiDevops
+$ git push --all
+Add one or more file in a folder
+ 
+git add .
+$ git status
+$ git commit -m "Second File added"
+$ git status
